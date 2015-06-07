@@ -1,0 +1,11 @@
+{
+  "name": "timespent-prototype",
+  "version": "0.1.0",
+  "authors": [
+    "Jackson Lynch <jacksonthatsme@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
